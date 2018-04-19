@@ -3,7 +3,7 @@
 
 export EDITOR=vi
 
-export PATH=$PATH:~/.local/bin
+export PATH=~/.local/bin:$PATH
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
